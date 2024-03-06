@@ -16,7 +16,7 @@ pin_config_t pin1 = {
 int main() {
     
     /* Testing pin interfaces*/
-#if 0
+#if 0 
     gpio_pin_initialize(&pin1);
     while(1){
         gpio_pin_write_logic(&pin1,GPIO_HIGH);

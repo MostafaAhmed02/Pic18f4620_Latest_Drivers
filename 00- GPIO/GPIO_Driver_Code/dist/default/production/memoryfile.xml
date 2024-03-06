@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <executable name="dist/default/production\PIC18F4620_Drivers.X.production.hex">
+  <executable name="dist/default/production\GPIO_Driver_Code.production.hex">
     <memory name="program">
       <units>bytes</units>
       <length>65536</length>

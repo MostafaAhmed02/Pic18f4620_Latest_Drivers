@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>PIC18F4620_Drivers</name>
+            <name>PIC18F4620_GPIO_Drivers</name>
             <creation-uuid>9edabb59-fd9f-4f18-b2ad-923876ef2eb6</creation-uuid>
             <make-project-type>0</make-project-type>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
